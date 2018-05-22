@@ -23,7 +23,7 @@ Slashpile21	16sV1V3	Hotel357	16sV1V3/Slashpile-16sV1V3
 Slashpile22	16sV1V3	Hotel358	16sV1V3/Slashpile-16sV1V3
 Slashpile23	16sV1V3	Hotel359	16sV1V3/Slashpile-16sV1V3
 Slashpile24	16sV1V3	Hotel360	16sV1V3/Slashpile-16sV1V3
-Slashpile25	16sV1V34	Hotel365	16sV1V3/Slashpile-16sV1V3
+Slashpile25	16sV1V3	Hotel365	16sV1V3/Slashpile-16sV1V3
 Slashpile26	16sV1V3	Hotel366	16sV1V3/Slashpile-16sV1V3
 Slashpile27	16sV1V3	Hotel367	16sV1V3/Slashpile-16sV1V3
 Slashpile28	16sV1V3	Hotel368	16sV1V3/Slashpile-16sV1V3
@@ -80,7 +80,7 @@ Slashpile22	ITS1	Hotel358	ITS1/Slashpile-ITS1
 Slashpile23	ITS1	Hotel359	ITS1/Slashpile-ITS1
 Slashpile24	ITS1	Hotel360	ITS1/Slashpile-ITS1
 Slashpile25	ITS1	Hotel365	ITS1/Slashpile-ITS1
-Slashpile26	ITS1	HoteL366	ITS1/Slashpile-ITS1
+Slashpile26	ITS1	Hotel366	ITS1/Slashpile-ITS1
 Slashpile27	ITS1	Hotel367	ITS1/Slashpile-ITS1
 Slashpile28	ITS1	Hotel368	ITS1/Slashpile-ITS1
 Slashpile1	ITS2	Hotel337	ITS2/Slashpile-ITS2
